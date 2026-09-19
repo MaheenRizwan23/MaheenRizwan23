@@ -23,7 +23,7 @@
 
 | Field | Detail |
 |---|---|
-| Name | Mahin — Maheen Rizwan |
+| Name |  Maheen Rizwan |
 | Role | Cybersecurity Undergraduate & Offensive Security Practitioner |
 | Institution | Abdul Wali Khan University Mardan (AWKUM), Pakistan |
 | Council | Female Coordinator, Technology & Innovation Society (AWKUM Students Council) |
